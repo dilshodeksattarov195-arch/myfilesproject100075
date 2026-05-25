@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssave",
+        "uuid": 303900,
+        "checksum": "ozuh2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
